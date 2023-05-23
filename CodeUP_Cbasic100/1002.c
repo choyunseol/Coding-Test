@@ -5,3 +5,7 @@ int main()
   printf("Hello World");
   return 0;
 }
+
+-----
+  
+https://codeup.kr/problem.php?id=1002
